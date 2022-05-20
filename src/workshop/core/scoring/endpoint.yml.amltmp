@@ -1,0 +1,3 @@
+$schema: https://azuremlschemas.azureedge.net/latest/managedOnlineEndpoint.schema.json
+name: ShermanCAA-ez-mlops-endpoint
+auth_mode: key
